@@ -1,0 +1,27 @@
+# This repository intentionally contains source/reference material only.
+*.apk
+*.aab
+*.apks
+*.idsig
+*.dex
+*.jar
+*.so
+*.aar
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+*.ps1
+*.sh
+*.bat
+*.cmd
+build/
+dist/
+.gradle/
+.idea/
+*.iml
+local.properties
+META-INF/
+original/
+lib/

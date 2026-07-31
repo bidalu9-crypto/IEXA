@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="bg_service_sessions">
+        <item quantity="other">%d sessions</item>
+        <item quantity="one">%d session</item>
+    </plurals>
+    <plurals name="model_picker_models_count">
+        <item quantity="other">%d modèles</item>
+        <item quantity="one">%d modèle</item>
+    </plurals>
+</resources>

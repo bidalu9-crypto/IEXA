@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path name="shared" path="shared/" />
+    <cache-path name="rpc-attachments" path="rpc-attachments/" />
+    <files-path name="camera-photos" path="camera-photos/" />
+    <cache-path name="share" path="share/" />
+    <files-path name="rootfs" path="alpine-rootfs/" />
+    <files-path name="sessions" path="iexa-sessions/" />
+    <files-path name="global" path="iexa-global/" />
+    <files-path name="logs" path="logs/" />
+</paths>

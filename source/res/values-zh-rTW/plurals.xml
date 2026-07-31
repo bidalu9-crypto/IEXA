@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="model_picker_models_count">
+        <item quantity="other">%d 個模型</item>
+    </plurals>
+</resources>

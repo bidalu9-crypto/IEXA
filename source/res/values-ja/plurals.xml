@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="bg_service_sessions">
+        <item quantity="other">%d セッション</item>
+        <item quantity="one">%d セッション</item>
+    </plurals>
+    <plurals name="model_picker_models_count">
+        <item quantity="other">%d 個のモデル</item>
+    </plurals>
+</resources>

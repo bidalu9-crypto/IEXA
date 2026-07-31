@@ -1,0 +1,19 @@
+.class public final LW2/h;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+
+# virtual methods
+.method public final serializer()Lm4/a;
+    .locals 1
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "()",
+            "Lm4/a;"
+        }
+    .end annotation
+
+    sget-object v0, LW2/g;->a:LW2/g;
+
+    return-object v0
+.end method
